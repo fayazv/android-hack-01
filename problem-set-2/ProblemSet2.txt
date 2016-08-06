@@ -1,0 +1,7 @@
+Problem Set 2:
+
+Create an Android App and load the Health Feeds in a Card View. When user clicks a feed it opens the post details.
+
+www.health.com/mind-body/feed
+
+Hint: You can use rss2json API to convert XML to JSON

@@ -1,0 +1,6 @@
+Problem Set 3:
+
+Create a Countdown Timer in Android with three(3) buttons:
+i. Start - Starts the countdown timer
+ii. Stop - Stops the timer
+iii. Reset - Resets the timer
